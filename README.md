@@ -43,11 +43,11 @@ Open `http://localhost:8000` in a browser. Windows users with Python installed c
 
 ```text
 CosmoBlitz/
-â”œâ”€â”€ assets/          # Game images and audio
-â”œâ”€â”€ game.js          # Game state, rendering, input, and combat logic
-â”œâ”€â”€ index.html       # Screens, HUD, and canvas entry point
-â”œâ”€â”€ manifest.json    # Installable web-app metadata
-â””â”€â”€ style.css        # Retro interface and responsive styling
+├── assets/          # Game images and audio
+├── game.js          # Game state, rendering, input, and combat logic
+├── index.html       # Screens, HUD, and canvas entry point
+├── manifest.json    # Installable web-app metadata
+└── style.css        # Retro interface and responsive styling
 ```
 
 ## Browser notes
